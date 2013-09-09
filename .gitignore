@@ -1,0 +1,21 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+
+# Compiled Dynamic libraries
+*.so
+*.dynlib
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+
+# miscellaneous y eclipse
+.settings
+.settings/*
+*.o
+*~
+.cproject
+.project
